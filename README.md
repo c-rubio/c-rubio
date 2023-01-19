@@ -22,7 +22,7 @@ Projects are as follows:
 <h2 align="center">Project 1: GPA Calculator</h2>
 <div>
 
-  ![splash](https://user-images.githubusercontent.com/98237169/212607312-560941ab-135d-4404-a466-972976563efd.png)
+  ![splash](https://user-images.githubusercontent.com/98237169/212800767-5f6c2d05-7fd2-4d21-ac63-6fb39fd08291.png)
   
   <p>
     This project is based upon calculating the different GPA's that NC A&T implements. These include the transcript, honors, and major GPA. It functions as a practice for coding standards and object-oriented programming. It's still a work in progress, Since it functions at the moment, my next steps are continuing to improve code organization and readability.
